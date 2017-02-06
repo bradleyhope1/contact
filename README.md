@@ -27,7 +27,7 @@ If you are using e-mail and you need to take precautions, you can send an encryp
 Be aware that encryption only protects the message itself, not the subject of the e-mail addresses of the people involved.
 
 My key can be found here:  
-https://keys.mailvelope.com/pks/lookup?op=get&search=0xA265C55775D2C206
+https://github.com/bradleyhopeWSJ/contact/blob/master/PGPKey
 
 <b>CHAT MESSENGERS</b>
 

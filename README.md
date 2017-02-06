@@ -5,12 +5,12 @@ I am based in the London bureau of the Wall Street Journal.
 If you have a tip about financial fraud, money-laundering or political corruption, or any sensitive topic,
 you should be careful how you communicate with journalists about it.
 
-The basics:
+<b>The basics:</b>
 bradley.hope@wsj.com
 Mobile: +447584600950
-Office: ++44 (0) 20 7842 9208
+Office: +442078429208
 
-MAIL
+<b>MAIL</b>
 
 A simple, but effective, technique is to mail something the old-fashioned way. This is remarkably effective and relatively secure.
 
@@ -20,7 +20,7 @@ WALL STREET JOURNAL, 7th Floor
 1 London Bridge Street, London SE1 9GF
 United Kingdom
 
-E-MAIL
+<b>E-MAIL</b>
 
 If you are using e-mail and you need to take precautions, you can send an encrypted message to me at bradley.hope@wsj.com using PGP. 
 
@@ -29,7 +29,7 @@ Be aware that encryption only protects the message itself, not the subject of th
 My key can be found here:  
 https://keys.mailvelope.com/pks/lookup?op=get&search=0xA265C55775D2C206
 
-CHAT MESSENGERS
+<b>CHAT MESSENGERS</b>
 
 Signal is the gold-standard for encrypted messaging and phone calls. You can download it here: https://whispersystems.org/
 

@@ -11,24 +11,6 @@ Office: +442078429208
 
 If you are worried about authorities or the company you work for reading your messages, you should take precautions. Here are a few tactics:
 
-<b>MAIL</b>
-
-Bradley Hope
-WALL STREET JOURNAL, 7th Floor
-1 London Bridge Street, London SE1 9GF
-United Kingdom
-
-Don't put your return address on the outside of the envelope.
-
-<b>E-MAIL</b>
-
-You can send me an encrypted e-mail using PGP at bradley.hope@wsj.com.
-
-Encryption only protects the message itself, not the subject of the e-mail addresses of the people involved.
-
-My key can be found here:  
-https://github.com/bradleyhopeWSJ/contact/blob/master/PGPKey
-
 <b>CHAT MESSENGERS</b>
 
 Signal is the gold-standard for encrypted messaging and phone calls. You can download it here: https://whispersystems.org/
@@ -41,4 +23,24 @@ One shortcoming of Signal is that it's difficult to use without giving up your a
 
 Then, create an account online or through the desktop application using that e-mail address (don't register your phone number) and a pseudonymn. I can be found there via my e-mail or cell phone.
 
-Another app that allows for a similar arrangement is WickrMe, which has a few security features that some people prefer.
+Another app that allows for a similar arrangement is WickrMe, which has a few security features that some people prefer. Wickr: https://www.wickr.com/
+
+WhatsApp isn't bad either, but it has weaknesses. I don't recommend Telegram or text messages. 
+
+<b>E-MAIL</b>
+
+You can send me an encrypted e-mail using PGP at bradley.hope@wsj.com.
+
+Encryption only protects the message itself, not the subject of the e-mail addresses of the people involved.
+
+My key can be found here:  
+https://github.com/bradleyhopeWSJ/contact/blob/master/PGPKey
+
+<b>MAIL</b>
+
+Bradley Hope<br>
+WALL STREET JOURNAL, 7th Floor<br>
+1 London Bridge Street, London SE1 9GF<br>
+United Kingdom
+
+Don't put your return address on the outside of the envelope.

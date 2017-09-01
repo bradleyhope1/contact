@@ -2,14 +2,14 @@
 
 I am based in the London bureau of the Wall Street Journal.
 
-Please get in touch if you have any story ideas or tips for us to follow up.
+Get in touch if you have any story ideas or tips for us to follow up.
 
 <b>The basics:</b>
 bradley.hope@wsj.com
 Mobile: +447584600950
 Office: +442078429208
 
-If you are worried about  authorities or the company you work reading your messages, you should take precautions. Here are a few ideas:
+If you are worried about authorities or the company you work for reading your messages, you should take precautions. Here are a few tactics:
 
 <b>MAIL</b>
 
@@ -17,6 +17,8 @@ Bradley Hope
 WALL STREET JOURNAL, 7th Floor
 1 London Bridge Street, London SE1 9GF
 United Kingdom
+
+Don't put your return address on the outside of the envelope.
 
 <b>E-MAIL</b>
 
@@ -35,5 +37,8 @@ You can add my mobile phone number to your contacts and I'll pop up as available
 
 Signal will keep a record of when you set up an account and what phone number you've used, which can be sensitive information.
 
-Alternatively, you can use a program called Wickr, which lets you set up an account using only an e-mail address. 
-You can create a fake e-mail address and use it to create an account, and then find me using my phone number or e-mail.
+One shortcoming of Signal is that it's difficult to use without giving up your actual cell phone number, so another option is to use the secure messaging app called Wire: https://wire.com/en/. First create a quick e-mail address that doesn't include your name anywhere through a service like ProtonMail: https://protonmail.com/. 
+
+Then, create an account online or through the desktop application using that e-mail address (don't register your phone number) and a pseudonymn. I can be found there via my e-mail or cell phone.
+
+Another app that allows for a similar arrangement is WickrMe, which has a few security features that some people prefer.

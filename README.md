@@ -4,9 +4,9 @@ I am based in the London bureau of the Wall Street Journal.
 
 Get in touch if you have any story ideas or tips for us to follow up.
 
-<b>The basics:</b>
-bradley.hope@wsj.com
-Mobile: +447584600950
+<b>The basics:</b><br>
+bradley.hope@wsj.com<br>
+Mobile: +447584600950<br>
 Office: +442078429208
 
 If you are worried about authorities or the company you work for reading your messages, you should take precautions. Here are a few tactics:

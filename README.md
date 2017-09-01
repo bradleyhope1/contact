@@ -9,7 +9,7 @@ bradley.hope@wsj.com<br>
 Mobile: +447584600950<br>
 Office: +442078429208
 
-If you are worried about authorities or the company you work for reading your messages, you should take precautions. Here are a few tactics:
+If you are worried about authorities or the company you work for reading your messages, you should take precautions. Technology solutions are imperfect, but here are a few tactics for making contact:
 
 <b>CHAT MESSENGERS</b>
 
@@ -25,7 +25,7 @@ Then, create an account online or through the desktop application using that e-m
 
 Another app that allows for a similar arrangement is WickrMe, which has a few security features that some people prefer. Wickr: https://www.wickr.com/
 
-WhatsApp isn't bad either, but it has weaknesses. I don't recommend Telegram or text messages. 
+WhatsApp isn't bad, but it has weaknesses. I don't recommend Telegram or text messages. 
 
 <b>E-MAIL</b>
 

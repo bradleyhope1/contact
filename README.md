@@ -27,6 +27,16 @@ Another app that allows for a similar arrangement is WickrMe, which has a few se
 
 WhatsApp isn't bad, but it has weaknesses. I don't recommend Telegram or text messages. 
 
+<b>SECURE DROP</b>
+
+The Wall Street Journal has created a Secure Drop facility for people wanting to submit documents or send messages to our staff anonymously. Anything you provide via this system will be encrypted on a computer under our physical control and only decrypted on an offline computer disconnected to any network. The system is designed to help protect your anonymity, even from the Journal.
+
+To use SecureDrop, you should follow these steps. For the best identity protection, we suggest you connect to the internet using a public Wi-Fi network.
+
+Download and install the Tor browser here: https://www.torproject.org
+Open the browser, wait for a connection, and then copy and paste this URL into the address bar: p7exvfz35jydt25f.onion
+Once you’ve done this, the system will give you further instructions and a code name, which you should remember or write on a piece of paper that you keep in a safe place. The Journal will only be able to contact you within SecureDrop via this anonymous code name.
+
 <b>E-MAIL</b>
 
 You can send me an encrypted e-mail using PGP at bradley.hope@wsj.com.

@@ -21,7 +21,7 @@ Signal will keep a record of when you set up an account and what phone number yo
 
 One shortcoming of Signal is that it's difficult to use without giving up your actual cell phone number, so another option is to use the secure messaging app called Wire: https://wire.com/en/. First create a quick e-mail address that doesn't include your name anywhere through a service like ProtonMail: https://protonmail.com/. 
 
-Then, create an account online or through the desktop application using that e-mail address (don't register your phone number) and a pseudonymn. I can be found there via my e-mail or cell phone.
+Then, create an account online or through the desktop application using that e-mail address (don't register your phone number) and a pseudonymn. I can be found there via my username, @bradleyhope.
 
 Another app that allows for a similar arrangement is WickrMe, which has a few security features that some people prefer. Wickr: https://www.wickr.com/
 

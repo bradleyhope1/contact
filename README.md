@@ -6,8 +6,9 @@ Get in touch if you have any story ideas or tips for us to follow up.
 
 <b>The basics:</b><br>
 bradley.hope@wsj.com<br>
-Mobile: +447584600950<br>
-Office: +442078429208
+bradleyhope@gmail.com<br>
+great.calvero@protonmail.com<br>
+Mobile: +44(0)7746516719<br>
 
 If you are worried about authorities or the company you work for reading your messages, you should take precautions. Technology solutions are imperfect, but here are a few tactics for making contact:
 
@@ -27,19 +28,9 @@ Another app that allows for a similar arrangement is WickrMe, which has a few se
 
 WhatsApp is ok for most things, but it has weaknesses. I don't recommend Telegram, Threema or text messages. 
 
-<b>SECURE DROP</b>
-
-The Wall Street Journal has created a Secure Drop facility for people wanting to submit documents or send messages to our staff anonymously. Anything you provide via this system will be encrypted on a computer under our physical control and only decrypted on an offline computer disconnected to any network. The system is designed to help protect your anonymity, even from the Journal.
-
-To use SecureDrop, you should follow these steps. For the best identity protection, we suggest you connect to the internet using a public Wi-Fi network.
-
-Download and install the Tor browser here: https://www.torproject.org <br>
-Open the browser, wait for a connection, and then copy and paste this URL into the address bar: p7exvfz35jydt25f.onion <br>
-Once you’ve done this, the system will give you further instructions and a code name, which you should remember or write on a piece of paper that you keep in a safe place. The Journal will only be able to contact you within SecureDrop via this anonymous code name. <br>
-
 <b>E-MAIL</b>
 
-You can send me an encrypted e-mail using PGP at bradley.hope@wsj.com.
+You can send me an encrypted e-mail using PGP at bradley.hope@wsj.com or you can send me an e-mail from a Protonmail account to my Protonmail account (the service encrypts messages between accounts at Protonmail): great.calvero@protonmail.com.
 
 Encryption only protects the message itself, not the subject of the e-mail addresses of the people involved.
 

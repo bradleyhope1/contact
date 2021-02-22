@@ -1,11 +1,11 @@
 # contact
 
-I am based in the London bureau of the Wall Street Journal.
+I am a reporter based in London and co-founder of journalism collective Project Brazen.
 
 Get in touch if you have any story ideas or tips for us to follow up.
 
 <b>The basics:</b><br>
-bradley.hope@wsj.com<br>
+bradley@projectbrazen.com<br>
 bradleyhope@gmail.com<br>
 great.calvero@protonmail.com<br>
 Mobile: +44(0)7746516719<br>
@@ -28,20 +28,11 @@ Another app that allows for a similar arrangement is WickrMe, which has a few se
 
 WhatsApp is ok for most things, but it has weaknesses. I don't recommend Telegram, Threema or text messages. 
 
-<b>E-MAIL</b>
-
-You can send me an encrypted e-mail using PGP at bradley.hope@wsj.com or you can send me an e-mail from a Protonmail account to my Protonmail account (the service encrypts messages between accounts at Protonmail): great.calvero@protonmail.com.
-
-Encryption only protects the message itself, not the subject of the e-mail addresses of the people involved.
-
-My key can be found here:  
-https://github.com/bradleyhopeWSJ/contact/blob/master/PGPKey
-
 <b>MAIL</b>
 
 Bradley Hope<br>
-WALL STREET JOURNAL, 7th Floor<br>
-1 London Bridge Street, London SE1 9GF<br>
-United Kingdom
+Project Brazen<br>
+Unit K208, Bermondsey Biscuit Factory<br>
+London, SE16 4DG, United Kingdom<br>
 
 Don't put your return address on the outside of the envelope.

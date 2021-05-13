@@ -15,7 +15,7 @@ If you are worried about authorities or the company you work for reading your me
 
 Signal is the gold-standard for encrypted messaging and phone calls. You can download it here: https://whispersystems.org/
 
-You can add my mobile phone number to your contacts and I'll pop up as available. If you don't want to save my number, you can also send message through the system by typing my number into the search box and it will give you the option to click "New conversation with +447584600950."
+You can add my mobile phone number to your contacts and I'll pop up as available. If you don't want to save my number, you can also send message through the system by typing my number into the search box and it will give you the option to click "New conversation with +447746516719."
 
 Signal will keep a record of when you set up an account and what phone number you've used, which can be sensitive information.
 
@@ -23,7 +23,7 @@ One shortcoming of Signal is that it's difficult to use without giving up your a
 
 Then, create an account online or through the desktop application using that e-mail address (don't register your phone number) and a pseudonym. I can be found there via my username, @bradleyhope.
 
-Another app that allows for a similar arrangement is WickrMe, which has a few security features that some people prefer. Wickr: https://www.wickr.com/
+Another app that allows for a similar arrangement is Wickr, which has a few security features that some people prefer. Wickr: https://www.wickr.com/
 
 WhatsApp is ok for most things, but it has weaknesses. I don't recommend Telegram, Threema or text messages. 
 

@@ -1,12 +1,13 @@
 # contact
 
-I am a reporter based in London and co-founder of journalism collective Project Brazen.
+I am a reporter based in London and co-founder of journalism studio Project Brazen.
 
 Get in touch if you have any story ideas or tips for us to follow up.
 
 <b>The basics:</b><br>
 bradley@projectbrazen.com<br>
 great.calvero@protonmail.com<br>
+projectbrazen@protonmail.com<br>
 Mobile: +44(0)7746516719<br>
 
 If you are worried about authorities or the company you work for reading your messages, you should take precautions. Technology solutions are imperfect, but here are a few tactics for making contact:
@@ -22,8 +23,6 @@ Signal will keep a record of when you set up an account and what phone number yo
 One shortcoming of Signal is that it's difficult to use without giving up your actual cell phone number, so another option is to use the secure messaging app called Wire: https://wire.com/en/. First create a quick e-mail address that doesn't include your name anywhere through a service like ProtonMail: https://protonmail.com/. 
 
 Then, create an account online or through the desktop application using that e-mail address (don't register your phone number) and a pseudonym. I can be found there via my username, @bradleyhope.
-
-Another app that allows for a similar arrangement is Wickr, which has a few security features that some people prefer. Wickr: https://www.wickr.com/
 
 WhatsApp is ok for most things, but it has weaknesses. I don't recommend Telegram, Threema or text messages. 
 

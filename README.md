@@ -6,7 +6,6 @@ Get in touch if you have any story ideas or tips for us to follow up.
 
 <b>The basics:</b><br>
 bradley@projectbrazen.com<br>
-great.calvero@protonmail.com<br>
 projectbrazen@protonmail.com<br>
 Mobile: +44(0)7746516719<br>
 

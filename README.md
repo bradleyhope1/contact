@@ -19,17 +19,13 @@ You can add my mobile phone number to your contacts and I'll pop up as available
 
 Signal will keep a record of when you set up an account and what phone number you've used, which can be sensitive information.
 
-One shortcoming of Signal is that it's difficult to use without giving up your actual cell phone number, so another option is to use the secure messaging app called Wire: https://wire.com/en/. First create a quick e-mail address that doesn't include your name anywhere through a service like ProtonMail: https://protonmail.com/. 
-
-Then, create an account online or through the desktop application using that e-mail address (don't register your phone number) and a pseudonym. I can be found there via my username, @bradleyhope.
-
 WhatsApp is ok for most things, but it has weaknesses. I don't recommend Telegram, Threema or text messages. 
 
 <b>MAIL</b>
 
 Bradley Hope<br>
 Project Brazen<br>
-Unit K208, Bermondsey Biscuit Factory<br>
-London, SE16 4DG, United Kingdom<br>
+Unit 3B, 1-4 Plantain Place, 
+London, United Kingdom, SE11YN<br>
 
 Don't put your return address on the outside of the envelope.

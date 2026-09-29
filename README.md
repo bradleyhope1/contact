@@ -1,31 +1,39 @@
-# contact
+# Contact Bradley Hope securely
 
-I am a reporter based in London and co-founder of journalism studio Project Brazen.
+I’m a reporter based in London and co-founder of Project Brazen. If you have a story idea, information about wrongdoing, or something you think deserves investigation, I’d like to hear from you.
 
-Get in touch if you have any story ideas or tips for us to follow up.
+## Start with Signal
 
-<b>The basics:</b><br>
-bradley@projectbrazen.com<br>
-projectbrazen@protonmail.com<br>
-Mobile: +44(0)7746516719<br>
+For confidential conversations, my preferred contact method is **Signal: bradleyhope.01**. Please begin with a brief description of what you would like to discuss, without documents or details that could identify you.
 
-If you are worried about authorities or the company you work for reading your messages, you should take precautions. Technology solutions are imperfect, but here are a few tactics for making contact:
+**[Message me on Signal](https://signal.me/#eu/Wxp6XU_YX7rv2P5TtfC3y9fV-36Aj-mDC-2wxLlzZJKgDMZWcM5Gj6tKvl6hX5Yn)**
 
-<b>CHAT MESSENGERS</b>
+You can use that link, scan the code below, or enter `bradleyhope.01` in Signal’s new-chat screen. You do not need to add my phone number to your contacts ([Signal’s username guide](https://signal.org/blog/phone-number-privacy-usernames/)).
 
-Signal is the gold-standard for encrypted messaging and phone calls. You can download it here: https://whispersystems.org/
+<img src="signal-username-qr-code.png" alt="Signal contact QR code for bradleyhope.01" width="300">
 
-You can add my mobile phone number to your contacts and I'll pop up as available. If you don't want to save my number, you can also send message through the system by typing my number into the search box and it will give you the option to click "New conversation with +447746516719."
+If you do not already have Signal, download it from [signal.org](https://signal.org/). Signal encrypts messages and calls end to end, but still requires a phone number to register; using a username is not a guarantee of anonymity ([Signal’s username guide](https://signal.org/blog/phone-number-privacy-usernames/)).
 
-Signal will keep a record of when you set up an account and what phone number you've used, which can be sensitive information.
+## Before sending anything sensitive
 
-WhatsApp is ok for most things, but it has weaknesses. I don't recommend Telegram, Threema or text messages. 
+- **Use a device you control.** Avoid a work phone, work computer, work email account or employer’s network for sensitive contact; SecureDrop’s [source guidance](https://docs.securedrop.org/en/stable/source/before_you_submit.html) explains the risks of employer-controlled equipment and networks.
+- **Check what your Signal profile reveals.** Review your name, photograph and the settings under Privacy → Phone Number before making contact; “Who can see my number” and “Who can find me by my number” are separate controls ([Signal’s privacy guide](https://signal.org/blog/phone-number-privacy-usernames/)).
+- **Do not send documents in your first message.** Files can contain identifying metadata, so start by describing the material in general terms rather than attaching it ([SecureDrop’s guidance on source-identifying metadata](https://docs.securedrop.org/en/stable/admin/deployment/landing_page.html)).
+- **Check whom you are speaking to.** A familiar name or photograph is not proof of identity; for sensitive conversations, verify contact details through an independently trusted channel and compare Signal safety numbers where safe to do so ([Signal’s identity guidance](https://signal.org/blog/phone-number-privacy-usernames/)).
+- **Consider disappearing messages.** They reduce the conversation history left on devices, but do not prevent someone from copying or photographing a message ([Signal’s disappearing-message guidance](https://support.signal.org/hc/en-us/articles/360007320771-Set-and-manage-disappearing-messages)).
 
-<b>MAIL</b>
+Encryption cannot protect messages on a device that someone else controls or has compromised. Keep your operating system and messaging app updated, and do not assume an encrypted conversation is safe on a monitored phone or computer ([Freedom of the Press Foundation’s device-security guidance](https://freedom.press/digisec/blog/signal-chats-cited-in-minneapolis-protest-indictment/)).
 
-Bradley Hope<br>
-Project Brazen<br>
-Unit 3B, 1-4 Plantain Place, 
-London, United Kingdom, SE11YN<br>
+## If being identified could put you in serious danger
 
-Don't put your return address on the outside of the envelope.
+Do not assume that contacting me through Signal or email will keep you anonymous. Before sending anything, read [SecureDrop’s guidance for sources](https://docs.securedrop.org/en/stable/source/before_you_submit.html), which explains anonymous submission through Tor and precautions involving devices, networks and Tails.
+
+This page does not provide a SecureDrop inbox. That guide is background on safer anonymous submission, not a way to send material to me.
+
+## Email
+
+For general correspondence, write to **bradley@projectbrazen.com**. Please use Signal rather than ordinary email to begin a sensitive conversation.
+
+You can also reach me at **projectbrazen@protonmail.com**. Messages between Proton Mail accounts are end-to-end encrypted, but ordinary email sent from another provider is not automatically end-to-end encrypted, and subject lines and sender/recipient addresses are not protected in the same way as message contents ([Proton’s encryption explanation](https://proton.me/support/proton-mail-encryption-explained)).
+
+Keep sensitive information out of email subject lines. If anonymity matters, do not treat a Proton address as a substitute for an anonymous submission system.

@@ -18,8 +18,7 @@ If you do not already have Signal, download it from [signal.org](https://signal.
 
 - **Use a device you control.** Avoid a work phone, work computer, work email account or employer’s network for sensitive contact; SecureDrop’s [source guidance](https://docs.securedrop.org/en/stable/source/before_you_submit.html) explains the risks of employer-controlled equipment and networks.
 - **Check what your Signal profile reveals.** Review your name, photograph and the settings under Privacy → Phone Number before making contact; “Who can see my number” and “Who can find me by my number” are separate controls ([Signal’s privacy guide](https://signal.org/blog/phone-number-privacy-usernames/)).
-- **Do not send documents in your first message.** Files can contain identifying metadata, so start by describing the material in general terms rather than attaching it ([SecureDrop’s guidance on source-identifying metadata](https://docs.securedrop.org/en/stable/admin/deployment/landing_page.html)).
-- **Check whom you are speaking to.** A familiar name or photograph is not proof of identity; for sensitive conversations, verify contact details through an independently trusted channel and compare Signal safety numbers where safe to do so ([Signal’s identity guidance](https://signal.org/blog/phone-number-privacy-usernames/)).
+- **Do not send documents in your first message.** Files can contain identifying metadata, so start by describing the material in general terms rather than attaching it and then we will discuss next steps ([SecureDrop’s guidance on source-identifying metadata](https://docs.securedrop.org/en/stable/admin/deployment/landing_page.html)). 
 - **Consider disappearing messages.** They reduce the conversation history left on devices, but do not prevent someone from copying or photographing a message ([Signal’s disappearing-message guidance](https://support.signal.org/hc/en-us/articles/360007320771-Set-and-manage-disappearing-messages)).
 
 Encryption cannot protect messages on a device that someone else controls or has compromised. Keep your operating system and messaging app updated, and do not assume an encrypted conversation is safe on a monitored phone or computer ([Freedom of the Press Foundation’s device-security guidance](https://freedom.press/digisec/blog/signal-chats-cited-in-minneapolis-protest-indictment/)).
@@ -34,6 +33,6 @@ This page does not provide a SecureDrop inbox. That guide is background on safer
 
 For general correspondence, write to **bradley@projectbrazen.com**. Please use Signal rather than ordinary email to begin a sensitive conversation.
 
-You can also reach me at **projectbrazen@protonmail.com**. Messages between Proton Mail accounts are end-to-end encrypted, but ordinary email sent from another provider is not automatically end-to-end encrypted, and subject lines and sender/recipient addresses are not protected in the same way as message contents ([Proton’s encryption explanation](https://proton.me/support/proton-mail-encryption-explained)).
+You can also reach us at **projectbrazen@protonmail.com**. Messages between Proton Mail accounts are end-to-end encrypted, but ordinary email sent from another provider is not automatically end-to-end encrypted, and subject lines and sender/recipient addresses are not protected in the same way as message contents ([Proton’s encryption explanation](https://proton.me/support/proton-mail-encryption-explained)). So the best process would be to create your own free Proton Mail account before messaging us.
 
-Keep sensitive information out of email subject lines. If anonymity matters, do not treat a Proton address as a substitute for an anonymous submission system.
+Keep sensitive information out of email subject lines. 
